@@ -20,18 +20,14 @@ CORS enabled
 
 <h3>Tech Stack</h3>
 
-<ol>Node.js
-
+<Node.js
 Express.js
-
 MySQL2
-
 dotenv
+CORS
 
-CORS</ol>
 
-
-🔑 Environment Variables
+<h3>🔑 Environment Variables</h3>
 
 Create a .env file:
 

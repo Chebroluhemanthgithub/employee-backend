@@ -1,8 +1,8 @@
-Employee Management System — Backend
+<h1>Employee Management System — Backend</h1>
 
-Node.js + Express + MySQL  API for managing employees.
+<h3>Node.js + Express + MySQL  API for managing employees.</h3>
 
-⭐ Features
+<h3>⭐ Features</h3>
 
 Add employees
 
@@ -16,19 +16,11 @@ Uses Express REST API
 
 CORS enabled
 
-employee-backend/
- ├── routes/
- │     └── employeeRoutes.js
- ├── db.js
- ├── index.js
- ├── .env
- ├── package.json
 
 
+<h3>Tech Stack</h3>
 
-Tech Stack
-
-Node.js
+<ol>Node.js
 
 Express.js
 
@@ -36,7 +28,7 @@ MySQL2
 
 dotenv
 
-CORS
+CORS</ol>
 
 
 🔑 Environment Variables
@@ -50,7 +42,7 @@ DB_USER=your_mysql_user
 DB_PASSWORD=your_mysql_password
 DB_NAME=your_mysql_database
 
-▶ Run Locally
+<h3>Run Locally</h3>
 Install dependencies
 npm install
 
